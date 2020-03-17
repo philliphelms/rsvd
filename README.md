@@ -9,6 +9,6 @@ Includes implementation for:
 # Running an example
 To run an example calculation with any of the three implementations, you can use the three run*.py scripts provided. 
 
-`./run.py pic2.jpg 10`
+`python run.py pic2.jpg 10`
 
 Where the first argument provides an input rgb image and the second argument is the number of retained singular values.
